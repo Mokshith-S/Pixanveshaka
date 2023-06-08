@@ -1,0 +1,7 @@
+{
+    "params":
+    {
+        "sql_conn": "mysql://root:@localhost:3304/pixanveshaka",
+        "secret_key": "52EkBm7hjHUN72x5r1RitybF0BXVyslr"
+    }
+}
